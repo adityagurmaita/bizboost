@@ -1,6 +1,6 @@
 # Duggu Sweets
 
-![Project](https://img.shields.io/badge/bizboost-d89539) ![Status](https://img.shields.io/badge/status-demo-blue)
+![Project](https://img.shields.io/badge/project-bizboost-d89539) ![Status](https://img.shields.io/badge/status-demo-blue)
 
 **HTML · CSS · JavaScript**
 
